@@ -2,3 +2,5 @@ theme: jekyll-theme-minimal
 title: Doolittle Software
 description: Doolittle Software
 logo: /assets/images/doolittle_logo.jpg
+include:
+  - _headers
